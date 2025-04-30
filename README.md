@@ -1,2 +1,2 @@
-# projeto-landing-page
-Este é o projeto de desenvolvimento do modo base do curso de tecnologia da escola DNC
+# Landing page para o colégio DNC.
+Landing page para o colégio DNC.
